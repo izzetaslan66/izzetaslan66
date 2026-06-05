@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm İzzet 👋
 
-<!--
-**izzetaslan66/izzetaslan66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer based in Istanbul — currently finishing my Computer Engineering degree at Istanbul Beykent University.
 
-Here are some ideas to get you started:
+I build mobile apps, web platforms, and automation systems. From live football data to AI-powered ad detection in sports broadcasts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+---
+
+### Featured projects
+
+**[BronzAtlas]** — D&D / RPG reference platform with stat generators, spell lists, and race pages. JS + Firebase + Cloudflare Workers.
+
+**Macistan** — Live football data mobile app with real-time match scores and stats. Flutter + Firebase.
+
+**AtaSpor** — AI + OCR system that detects ads in live sports broadcasts for sponsorship analytics. Python + CV.
+
+---
+
+### Experience
+
+- EOS Sustainable Energy · İTÜ ARI Teknokent
+- Bakırköy Municipality
+- Başakşehir Football Club
+
+---
+
+### Contact
+
+📧 izzetaslan66@hotmail.com ·  📍 Istanbul, TR
