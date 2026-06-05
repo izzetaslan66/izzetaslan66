@@ -1,6 +1,6 @@
 ## Hi, I'm İzzet
 
-Junior Software Developer based in Istanbul — currently finishing my Computer Engineering degree at Istanbul Beykent University.
+Full Stack Developer based in Istanbul — currently finishing my Computer Engineering degree at Istanbul Beykent University.
 
 I build mobile apps, web platforms, and automation systems. From live football data to AI-powered ad detection in sports broadcasts.
 
@@ -14,12 +14,14 @@ I build mobile apps, web platforms, and automation systems. From live football d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 
 ---
 
 ### Featured projects
 
-**[BronzAtlas]** — D&D / RPG reference platform with stat generators, spell lists, and race pages. JS + Firebase + Cloudflare Workers.
+**[BronzAtlas]** — D&D / RPG reference platform with stat generators, spell lists, and race pages. JS + SQL.
 
 **Macistan** — Live football data mobile app with real-time match scores and stats. Flutter + Firebase.
 
