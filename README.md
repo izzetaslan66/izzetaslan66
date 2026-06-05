@@ -21,7 +21,7 @@ I build mobile apps, web platforms, and automation systems. From live football d
 
 ### Featured projects
 
-**[BronzAtlas]** — D&D / RPG reference platform with stat generators, spell lists, and race pages. JS + SQL.
+**BronzAtlas** — D&D / RPG reference platform with stat generators, spell lists, and race pages. JS + SQL.
 
 **Macistan** — Live football data mobile app with real-time match scores and stats. Flutter + Firebase.
 
