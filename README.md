@@ -1,4 +1,4 @@
-## Hi, I'm İzzet 👋
+## Hi, I'm İzzet
 
 Junior Software Developer based in Istanbul — currently finishing my Computer Engineering degree at Istanbul Beykent University.
 
